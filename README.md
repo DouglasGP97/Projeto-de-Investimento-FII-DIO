@@ -1,2 +1,9 @@
-# Projeto-de-Investimento-FII-DIO
+# Projeto-de-Investimento-FII-DIO | Excel
 Planilha para detalhar rendimentos mensais e anuais.
+--
+
+- Auxilia na organização financeira para investir dinheiro.
+
+## 🔍 Referências
+
+- [Digital Innovation One](https://www.dio.me/) - Professor: Felipe Aguiar
